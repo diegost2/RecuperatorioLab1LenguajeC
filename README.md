@@ -1,2 +1,3 @@
 # RecuperatorioLab1LenguajeC
 RecuperatorioLab1LenguajeC
+Diego espinoza 1B 
